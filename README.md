@@ -8,6 +8,7 @@ The program is run on Google colab.
 NN library used is pytorch
 hugging face "transformers" library is used for the bert model.
 The CNN architecture is obtained from "Convolutional Neural Networks for Sentence Classification".
+The data is obtained from https://ssmt.iiit.ac.in/techdofication.html
 
 Please cite this paper, if you are using this code.
 
